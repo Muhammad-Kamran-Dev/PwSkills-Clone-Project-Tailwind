@@ -4,10 +4,6 @@
 PwSkills-Clone-Project-Tailwind is a GitHub repository containing a fully responsive clone of the PwSkills website. Built with Tailwind CSS, it offers a comprehensive implementation of the original website's design, ensuring optimal display on various screen sizes.
 
 
-## 🚀 About Me
-I'm a React.js Front-End Developer
-
-
 ## Installation
 
 Install my-project with npm
