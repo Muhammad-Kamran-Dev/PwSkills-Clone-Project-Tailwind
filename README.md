@@ -17,7 +17,7 @@ Install my-project with npm
 ## Screenshots
 
 ![App Screenshot](https://i.ibb.co/nLJKjcL/s1.png)
-
+![App Screenshot](https://i.ibb.co/2nT7gMk/s2.png)
 
 ## Tech Stack
 
