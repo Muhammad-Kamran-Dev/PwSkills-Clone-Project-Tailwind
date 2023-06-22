@@ -1,0 +1,6 @@
+# Custom Dictionary Words
+conduent
+Hardwork
+module
+tailwindcss
+xperi
